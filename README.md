@@ -11,6 +11,15 @@ Machine Learning powered Loan Approval Prediction Dashboard
 <p align="center">
 
 Python • Streamlit • Scikit-Learn • Plotly
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3.11-blue?logo=python">
+<img src="https://img.shields.io/badge/Streamlit-Deployed-red?logo=streamlit">
+<img src="https://img.shields.io/badge/Scikit--Learn-Gradient%20Boosting-orange?logo=scikitlearn">
+<img src="https://img.shields.io/badge/Accuracy-98.24%25-brightgreen">
+<img src="https://img.shields.io/badge/License-MIT-success">
+
+</p>
 
 </p>
 **AI-Powered Loan Approval Prediction using Machine Learning**
