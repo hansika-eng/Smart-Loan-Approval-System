@@ -1,7 +1,3 @@
-<img width="1280" height="579" alt="image" src="https://github.com/user-attachments/assets/ebc602e7-3eed-41eb-8ec1-6f12249ffa9b" /># 🏦 Smart Loan Approval & Credit Risk Assessment System
-
-<p align="center">
-
 ### AI-Powered Loan Approval Prediction using Machine Learning
 
 Predict whether a loan application is likely to be **Approved** or **Rejected** using a trained **Gradient Boosting Machine Learning Model** with an interactive **Streamlit Dashboard**.
