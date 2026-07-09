@@ -311,7 +311,7 @@ KL University Hyderabad
 ### Connect with me
 
 - GitHub: https://github.com/hansika-eng
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/hansika-indukuri/
 
 ---
 
