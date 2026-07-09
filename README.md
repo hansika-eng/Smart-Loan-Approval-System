@@ -1,3 +1,18 @@
+<h1 align="center">
+🏦 Smart Loan Approval & Credit Risk Assessment System
+</h1>
+
+<p align="center">
+
+Machine Learning powered Loan Approval Prediction Dashboard
+
+</p>
+
+<p align="center">
+
+Python • Streamlit • Scikit-Learn • Plotly
+
+</p>
 ### AI-Powered Loan Approval Prediction using Machine Learning
 
 Predict whether a loan application is likely to be **Approved** or **Rejected** using a trained **Gradient Boosting Machine Learning Model** with an interactive **Streamlit Dashboard**.
