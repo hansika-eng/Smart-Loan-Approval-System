@@ -33,14 +33,12 @@ The application is built using **Python, Scikit-Learn, Streamlit, and Plotly** w
 
 # 🖼 Application Preview
 
-## Dashboard
+## Dashboard & Loan Application
 
 <img src="https://github.com/user-attachments/assets/f59a9276-8f61-4850-8159-c42230b1a2bb" width="100%">
 
----
-
-## Loan Application
 ## Loan Approved Prediction
+<img width="1280" height="598" alt="image" src="https://github.com/user-attachments/assets/05296e44-b06c-4026-a91c-df63e8b83e7a" />
 
 <img src="https://github.com/user-attachments/assets/1868fcc5-6305-48bf-bee3-252471ed5ea1" width="100%">
 
