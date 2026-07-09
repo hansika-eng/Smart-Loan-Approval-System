@@ -35,37 +35,37 @@ The application is built using **Python, Scikit-Learn, Streamlit, and Plotly** w
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
+<img src="https://github.com/user-attachments/assets/f59a9276-8f61-4850-8159-c42230b1a2bb" width="100%">
 
 ---
 
 ## Loan Application
 
-![Application](images/application.png)
+<img src="https://github.com/user-attachments/assets/bca893cf-22b7-4a8c-b40e-470e6f5b8b77" width="100%">
 
 ---
 
 ## Loan Approved Prediction
 
-![Approved](images/approved.png)
+<img src="https://github.com/user-attachments/assets/1868fcc5-6305-48bf-bee3-252471ed5ea1" width="100%">
 
 ---
 
 ## Loan Rejected Prediction
 
-![Rejected](images/rejected.png)
+<img src="https://github.com/user-attachments/assets/a8006c76-543f-44a9-9b89-a753d407aac6" width="100%">
 
 ---
 
 ## AI Financial Insights
 
-![Insights](images/insights.png)
+<img src="https://github.com/user-attachments/assets/8c0e0d79-3e4a-444f-9bb1-fc934bb994d2" width="100%">
+
 
 ---
 
 ## Feature Importance
-
-![Feature Importance](images/feature_importance.png)
+<img src="https://github.com/user-attachments/assets/bbe19a32-cef3-40b8-9778-d8cc01df58ea" width="100%">
 
 ---
 
