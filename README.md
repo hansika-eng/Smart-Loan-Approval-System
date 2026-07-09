@@ -29,6 +29,19 @@ Predict whether a loan application is likely to be **Approved** or **Rejected** 
 </p>
 
 ---
+## 📑 Table of Contents
+
+- Overview
+- Features
+- Screenshots
+- Tech Stack
+- Project Structure
+- Machine Learning Pipeline
+- Model Performance
+- Installation
+- Live Demo
+- Future Improvements
+- Author
 
 # 📖 Overview
 
